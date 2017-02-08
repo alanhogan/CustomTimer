@@ -1,0 +1,13 @@
+bin\Debug\CustomTimer.exe.manifest
+bin\Debug\CustomTimer.application
+bin\Debug\CustomTimer.exe
+bin\Debug\CustomTimer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomTimer.MainWindow.resources
+obj\Debug\CustomTimer.Properties.Resources.resources
+obj\Debug\CustomTimer.csproj.GenerateResource.Cache
+obj\Debug\CustomTimer.exe.licenses
+obj\Debug\CustomTimer.exe.manifest
+obj\Debug\CustomTimer.application
+obj\Debug\CustomTimer.exe
+obj\Debug\CustomTimer.pdb
